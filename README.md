@@ -5,20 +5,12 @@
 
 #### My statistics
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=montanari2019&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=montanari2019&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img width="600em" src="https://github-readme-stats.vercel.app/api?username=montanari2019&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=montanari2019&show_icons=true&theme=radical" />
 </picture>
 
 <picture>
 
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montanari2019&layout=compact&langs_count=8&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montanari2019&layout=compact&langs_count=8&theme=radical" />
 </picture>
 
 <div style="display: inline_block">
