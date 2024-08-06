@@ -1,5 +1,5 @@
 ### Hi there 👋 
-## I'm Ikaro Montanari, I have 24 years and developer javascript, joy to see you here.
+## My name is Ikaro Montanari, I am 24 years old, and I am a JavaScript developer. It's a pleasure to see you here
 
 ----------------------------------------------
 
