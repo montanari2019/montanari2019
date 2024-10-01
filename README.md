@@ -56,14 +56,14 @@
 - Git - 6 years
 - Javascript - 5 years
 - Typescript - 3 years
-- React.js (My primary competence) - 2 years
+- React.js (My primary competence) - 3 years
 - Redux - 2 years
 - Relational databases (SQL Server, PostgreSQL, and others) - 4 years
 - React Native - 0.5 years
 - Expo Platform and tools - 0.5 years
 - Node.js - 4 years
-- Next.js - 1.5 years
-- Nest.js (My primary competence) - 2 years
+- Next.js - 2 years
+- Nest.js (My primary competence) - 3 years
 
 ----------------------------------------------------
 
