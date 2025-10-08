@@ -81,6 +81,30 @@
 
 ## Job experiences
 
+### Lughy · Full-time
+**Full Stack Developer**
+> Marc - 2025 - preseent
+
+> Skills: React Native · NextJS · Docker · PostgreSQL · Azure · Expo · NestJS · TypeScript · DDD · Jest · React Testing Library
+
+At Lughy, I work as a Full Stack Developer responsible for building scalable and maintainable systems across web, mobile, and backend platforms. Using TypeScript throughout the stack, I apply Domain-Driven Design (DDD) principles, automated testing, and clean architecture best practices.
+I’ve been fully dedicated for over 8 months, developing and maintaining production-ready applications, leading architecture discussions, and collaborating in an agile Scrum environment via Azure DevOps.
+I contribute to the development of gamified and interactive digital platforms connecting exhibitors and customers, featuring a dynamic map, exhibitor catalog, full event schedule, and integrated news feed.
+
+My work includes:
+
+* Architecting APIs with NestJS and Node.js using DDD and SOLID principles.
+
+* Building responsive front-end applications with React and Next.js.
+
+*  Developing native mobile apps with React Native and Expo.
+
+*  Managing CI/CD pipelines and containerized environments with Docker and Azure.
+
+*  Writing automated tests (unit and integration) to ensure reliability and scalability.
+
+-----
+
 ### Sicoob Agrotech · Freelance
 **Full Stack Developer**
 > December 2023 - April 2024
@@ -93,7 +117,7 @@ Worked on a gamified and interactive digital platform connecting exhibitors and 
 
 ### Sicoob Credisul · Full-time
 **Full Stack Developer**
-> May 2023 - Present
+> May 2023 - Fev 2025
 
 > Skills: Docker · React.js · SSH · Next.js · NestJS · CSS · Nginx · Microsoft Excel · IBM Cognos Analytics · PostgreSQL
 
